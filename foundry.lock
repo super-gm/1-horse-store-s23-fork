@@ -1,0 +1,14 @@
+{
+  "lib/forge-std": {
+    "rev": "ae570fec082bfe1c1f45b0acca4a2b4f84d345ce"
+  },
+  "lib/foundry-huff": {
+    "rev": "c4ba1556174f2cd887700c42c86c1b56ccd0fe51"
+  },
+  "lib/huffmate": {
+    "rev": "4e2c9bd3412ab8cc65f6ceadafc01a1ff1815796"
+  },
+  "lib/openzeppelin-contracts": {
+    "rev": "01ef448981be9d20ca85f2faf6ebdf591ce409f3"
+  }
+}
